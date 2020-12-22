@@ -10,3 +10,6 @@
 /Godeps/_workspace
 vendor
 vendor.*
+
+# IDE/Editors
+.vscode

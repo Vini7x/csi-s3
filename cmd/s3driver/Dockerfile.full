@@ -25,7 +25,7 @@ RUN ./autogen.sh && \
   make install
 
 FROM debian:stretch
-LABEL maintainers="Cyrill Troxler <cyrilltroxler@gmail.com>"
+LABEL maintainers="Vinicius Eiji Martins <vini9x@gmail.com>"
 LABEL description="csi-s3 image"
 COPY --from=s3backer /usr/bin/s3backer /usr/bin/s3backer
 
