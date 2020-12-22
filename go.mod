@@ -34,8 +34,8 @@ require (
 	google.golang.org/genproto v0.0.0-20180716172848-2731d4fa720b // indirect
 	google.golang.org/grpc v1.13.0
 	gopkg.in/airbrake/gobrake.v2 v2.0.9 // indirect
+	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/gemnasium/logrus-airbrake-hook.v2 v2.1.2 // indirect
-	gopkg.in/ini.v1 v1.41.0 // indirect
 	gopkg.in/yaml.v2 v2.2.1 // indirect
 	k8s.io/apimachinery v0.0.0-20180714051327-705cfa51a97f // indirect
 	k8s.io/klog v0.2.0 // indirect
